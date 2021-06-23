@@ -1,6 +1,6 @@
 Spotify Mobile App (Music Player) Mockup using HTML and CSS.
 
-assets folder contains necessary images and fonts used.
+'assets' folder contains necessary images and fonts used.
 
 Note:"Gotham" font family is used and imported from 'CDN FONTS' in the CSS.
 
